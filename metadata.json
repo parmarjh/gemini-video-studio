@@ -1,0 +1,7 @@
+
+{
+  "name": "Gemini Video Studio",
+  "description": "A platform to conceptualize AI-powered video creation by analyzing scripts, selecting avatars and voices, and previewing a storyboard with AI-suggested B-roll.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
